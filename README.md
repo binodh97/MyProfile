@@ -1,4 +1,3 @@
+#My WEB Profile
 
-##My WEB Profile
-
-###Binodh Madhusanka
+##This is My Profile in Web
