@@ -1,6 +1,3 @@
-## This is My Profile
+##My WEB Profile
 
-### Institute of Software Engineering
-
-
-![This is an image](assets/images/Mobile.png)
+###Binodh Madhusanka
